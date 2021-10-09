@@ -1,5 +1,5 @@
-# ANN-implementation-DLCVNLP-demo
-ANN-implementation-DLCVNLP-demo
+# ANN-implementation
+ANN-implementation
 
 
 ## important commands ---------------
